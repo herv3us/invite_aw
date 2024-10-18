@@ -11,3 +11,11 @@
     font-family: "HalloweenMorning";
     src: local('HalloweenMorning'), url("./assets/fonts/HalloweenMorning.ttf") format('ttf');
 }
+
+.perspective-1000 {
+    perspective: 1000px;
+}
+
+.backface-hidden {
+    backface-visibility: hidden;
+}

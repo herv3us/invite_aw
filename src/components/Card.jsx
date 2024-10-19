@@ -25,28 +25,28 @@ function Card() {
                 <p className={infoText}>På kontoret bjuds det på snacks och en förhäxad drink</p>
             </div>
         </div>
-            <div className={textDiv}>
+        <div className={textDiv}>
             <p className={timeText}>17.00-17.30</p>
             <div className={infoDiv}>
                 <p className={titleText}>TILL LISEBERG</p>
                 <p className={infoText}>Kollektivtrafik till kvällens huvudevent avgår kl 17.14 ifrån Järntorget</p>
             </div>
         </div>
-            <div className={textDiv}>
+        <div className={textDiv}>
             <p className={timeText}>17.30-19.15</p>
             <div className={infoDiv}>
                 <p className={titleText}>6-KAMP</p>
                 <p className={infoText}>Vi tar oss in på Liseberg och ger oss in i en farlig strid</p>
             </div>
         </div>
-            <div className={textDiv}>
+        <div className={textDiv}>
             <p className={timeText}>19.30-21.20</p>
             <div className={infoDiv}>
                 <p className={titleText}>KÄK PÅ GASTBAREN</p>
                 <p className={infoText}>Vi mättar magarna med rysliga burgare</p>
             </div>
         </div>
-            <div className={textDiv}>
+        <div className={textDiv}>
             <p className={timeText}>21.30-23.00</p>
             <div className={infoDiv}>
                 <p className={titleText}>STRIDEN FORTSÄTTER</p>

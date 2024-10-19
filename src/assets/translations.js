@@ -47,7 +47,7 @@
         challenges: [
           { time: "Fight 1", title: "DEVIL'S BREW", info: "First task: brew the Devil's brew - Carrot Juice" },
           { time: "Fight 2", title: "WITCH HUNT", info: "Eliminate as many witches and their minions as you can" },
-          { time: "Fight 3", title: "UNDERWORLD MONSTERS", info: "With Thor's Hammer, you'll have the chance to strike down all the underworld monsters" },
+          { time: "Fight 3", title: "MONSTERS OF THE UNDERWORLD", info: "With Thor's Hammer, you'll have to strike down all the monsters of the underworld" },
           { time: "Fight 4", title: "DEMOLISH THE PALACE", info: "Use your arms like cannons to bombard the ghost palace" },
           { time: "Fight 5", title: "ESCAPE CAR", info: "Make sure your escape car is fueled and ready in case the worst happens" },
           { time: "Fight 6", title: "WHEN THE CAR WON'T START", info: "As a last resort, trust your horse to run you to safety" },

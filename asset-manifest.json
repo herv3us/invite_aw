@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/invite_aw/static/css/main.40636e79.css",
-    "main.js": "/invite_aw/static/js/main.7b9131bf.js",
+    "main.js": "/invite_aw/static/js/main.1e010036.js",
     "static/js/453.01ff409d.chunk.js": "/invite_aw/static/js/453.01ff409d.chunk.js",
+    "static/media/halloween.mp3": "/invite_aw/static/media/halloween.f59386ed7c945c306bed.mp3",
     "static/media/pumpkin.png": "/invite_aw/static/media/pumpkin.a1113c532727868f654a.png",
     "static/media/ghost1.png": "/invite_aw/static/media/ghost1.0d29233b33d682f36b62.png",
     "static/media/HalloweenMorning.ttf": "/invite_aw/static/media/HalloweenMorning.8cee476f34dcc320c10c.ttf",
@@ -12,11 +13,11 @@
     "static/media/HalloweenMorning.woff": "/invite_aw/static/media/HalloweenMorning.e8529ea88c5c881324b1.woff",
     "index.html": "/invite_aw/index.html",
     "main.40636e79.css.map": "/invite_aw/static/css/main.40636e79.css.map",
-    "main.7b9131bf.js.map": "/invite_aw/static/js/main.7b9131bf.js.map",
+    "main.1e010036.js.map": "/invite_aw/static/js/main.1e010036.js.map",
     "453.01ff409d.chunk.js.map": "/invite_aw/static/js/453.01ff409d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.40636e79.css",
-    "static/js/main.7b9131bf.js"
+    "static/js/main.1e010036.js"
   ]
 }

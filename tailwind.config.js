@@ -7,7 +7,8 @@ module.exports = {
     extend: {
       fontFamily: {
         HALLOWEEN: ["HALLOWEEN", "sans-serif"], 
-        HalloweenMorning: ["HalloweenMorning", "sans-serif"]
+        HalloweenMorning: ["HalloweenMorning", "sans-serif"],
+        Munsteria: ["Munsteria", "sans-serif"]
       }
     },
   },

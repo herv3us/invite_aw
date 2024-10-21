@@ -9,7 +9,14 @@
 
 @font-face {
     font-family: "HalloweenMorning";
-    src: local('HalloweenMorning'), url("./assets/fonts/HalloweenMorning.ttf") format('ttf');
+    src: url("./assets/fonts/HalloweenMorning.ttf") format('ttf'),
+        url("./assets/fonts/HalloweenMorning.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Munsteria";
+    src: url("./assets/fonts/Munsteria.ttf") format('ttf'),
+        url("./assets/fonts/Munsteria.woff") format("woff");
 }
 
 .perspective-1000 {

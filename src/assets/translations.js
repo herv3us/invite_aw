@@ -3,7 +3,7 @@
     sv: {
       front: {
         header: "Glad",
-        halloween: "HALLOWEEN",
+        halloween: "HaLloWeEN",
         aw: "AW",
         events: [
           { time: "16.00-17.00", title: "THE WITCHES BREW", info: "På kontoret bjuds det på snacks och en förhäxad drink" },
@@ -15,7 +15,7 @@
       },
       back: {
         header: "En",
-        halloween: "FARLIG",
+        halloween: "FARLiG",
         aw: "kamp",
         challenges: [
           { time: "Kamp 1", title: "DJÄVULENS BRYGD", info: "Första uppgiften är att brygga Djävulens brygd - Morots Juice" },
@@ -30,7 +30,7 @@
     en: {
       front: {
         header: "Happy",
-        halloween: "HALLOWEEN",
+        halloween: "hAlLOWeen",
         aw: "AW",
         events: [
           { time: "16.00-17.00", title: "THE WITCHES BREW", info: "At the office, enjoy snacks and a bewitching drink" },
@@ -42,7 +42,7 @@
       },
       back: {
         header: "A",
-        halloween: "DANGEROUS",
+        halloween: "DANGEroUS",
         aw: "battle",
         challenges: [
           { time: "Fight 1", title: "DEVIL'S BREW", info: "First task: brew the Devil's brew - Carrot Juice" },

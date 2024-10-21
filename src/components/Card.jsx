@@ -33,7 +33,7 @@ const Card = ({ language }) => {
               <p className="text-[40px] sm:text-[60px] text-white font-HALLOWEEN -mb-10 sm:-mb-20">{texts[language].front.halloween}</p>
               <p className='font-HalloweenMorning -mb-4 sm:-mb-6 text-red-900 text-[50px] sm:text-[110px]'>{texts[language].front.aw}</p>
         
-              <img src={ghost} className='w-20 h-20 sm:w-28 sm:h-28 absolute top-10 sm:top-20 right-12 float-image' />
+              <img alt='ghost' src={ghost} className='w-20 h-20 sm:w-28 sm:h-28 absolute top-10 sm:top-20 right-12 float-image' />
             </div>
             {texts[language].front.events.map((event, index) => (
               <div key={index} className="flex items-start justify-start gap-x-3 w-full mb-3 sm:mb-5 h-[54px]">
@@ -56,7 +56,7 @@ const Card = ({ language }) => {
               <p className="text-[20px] sm:text-[40px] text-white font-HalloweenMorning -mb-4 sm:-mb-6">{texts[language].back.header}</p>
               <p className="text-[40px] sm:text-[60px] text-white font-HALLOWEEN -mb-12 sm:-mb-[66px]">{texts[language].back.halloween}</p>
               <p className='font-HalloweenMorning -mb-4 sm:-mb-6 text-red-900 text-[60px] sm:text-[80px]'>{texts[language].back.aw}</p>
-                <img src={pumpkin} className='w-16 h-16 sm:w-24 sm:h-24 absolute top-14 sm:top-24 right-12' />
+                <img alt='pumpkin' src={pumpkin} className='w-16 h-16 sm:w-24 sm:h-24 absolute top-14 sm:top-24 right-12' />
             </div>
             {texts[language].back.challenges.map((challenge, index) => (
               <div key={index} className="flex items-start justify-start gap-x-3 w-full mb-3 sm:mb-5 h-[60px] sm:h-[54px]">

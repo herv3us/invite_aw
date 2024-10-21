@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/invite_aw/static/css/main.99346184.css",
-    "main.js": "/invite_aw/static/js/main.3b8e93fa.js",
+    "main.css": "/invite_aw/static/css/main.40636e79.css",
+    "main.js": "/invite_aw/static/js/main.7b9131bf.js",
     "static/js/453.01ff409d.chunk.js": "/invite_aw/static/js/453.01ff409d.chunk.js",
     "static/media/pumpkin.png": "/invite_aw/static/media/pumpkin.a1113c532727868f654a.png",
     "static/media/ghost1.png": "/invite_aw/static/media/ghost1.0d29233b33d682f36b62.png",
     "static/media/HalloweenMorning.ttf": "/invite_aw/static/media/HalloweenMorning.8cee476f34dcc320c10c.ttf",
     "static/media/HALLOWEEN.ttf": "/invite_aw/static/media/HALLOWEEN.c0f19186cba613226e9d.ttf",
+    "static/media/Munsteria.ttf": "/invite_aw/static/media/Munsteria.80b8b715e1f056173f58.ttf",
+    "static/media/Munsteria.woff": "/invite_aw/static/media/Munsteria.1f33a02011f0619b0edc.woff",
+    "static/media/HalloweenMorning.woff": "/invite_aw/static/media/HalloweenMorning.e8529ea88c5c881324b1.woff",
     "index.html": "/invite_aw/index.html",
-    "main.99346184.css.map": "/invite_aw/static/css/main.99346184.css.map",
-    "main.3b8e93fa.js.map": "/invite_aw/static/js/main.3b8e93fa.js.map",
+    "main.40636e79.css.map": "/invite_aw/static/css/main.40636e79.css.map",
+    "main.7b9131bf.js.map": "/invite_aw/static/js/main.7b9131bf.js.map",
     "453.01ff409d.chunk.js.map": "/invite_aw/static/js/453.01ff409d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99346184.css",
-    "static/js/main.3b8e93fa.js"
+    "static/css/main.40636e79.css",
+    "static/js/main.7b9131bf.js"
   ]
 }

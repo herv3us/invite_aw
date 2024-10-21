@@ -18,14 +18,7 @@ const Card = ({ language }) => {
         {/* Front */}
         <div className="flip-card-front">
 
-        <div className="stars">
-            <div className="star"></div>
-            <div className="star"></div>
-            <div className="star"></div>
-            <div className="star"></div>
-            <div className="star"></div>
-            <div className="star"></div>
-          </div>
+       
 
           <div className='h-full w-full pt-10 pb-5 px-8 sm:px-12 text-white flex justify-center items-center flex-col'>
             <div className='w-[95%] sm:w-[90%] mb-6 sm:mb-12 relative'>
@@ -39,11 +32,20 @@ const Card = ({ language }) => {
               <div key={index} className="flex items-start justify-start gap-x-3 w-full mb-3 sm:mb-5 h-[54px]">
                 <p className="text-[13px] sm:text-[18px] text-white">{event.time}</p>
                 <div className="w-[70%]">
-                  <p className="text-[18px] sm:text-[20px] text-orange-400">{event.title}</p>
+                  <p className="text-[18px] sm:text-[20px] text-orange-500">{event.title}</p>
                   <p className="text-[12px] text-white">{event.info}</p>
                 </div>
               </div>
             ))}
+
+             <div className="stars">
+            <div className="star"></div>
+            <div className="star"></div>
+            <div className="star"></div>
+            <div className="star"></div>
+            <div className="star"></div>
+            <div className="star"></div>
+          </div>
 
 
           </div>
@@ -62,7 +64,7 @@ const Card = ({ language }) => {
               <div key={index} className="flex items-start justify-start gap-x-3 w-full mb-3 sm:mb-5 h-[60px] sm:h-[54px]">
                 <p className="text-[13px] sm:text-[18px] text-white">{challenge.time}</p>
                 <div className="w-[80%]">
-                  <p className="text-[18px] sm:text-[20px] text-orange-400">{challenge.title}</p>
+                  <p className="text-[18px] sm:text-[20px] text-orange-500">{challenge.title}</p>
                   <p className="text-[12px] text-white">{challenge.info}</p>
                 </div>
               </div>
